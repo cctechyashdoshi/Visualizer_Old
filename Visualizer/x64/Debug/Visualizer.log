@@ -1,0 +1,17 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 5.12.12
+  DataWriter.cpp
+  OBJReader.cpp
+  ObjWriter.cpp
+  STLWriter.cpp
+  Writer.cpp
+  Point.cpp
+  Reader.cpp
+  STLReader.cpp
+  Triangle.cpp
+  Triangulation.cpp
+  Visualizer.cpp
+  main.cpp
+  qrc_Visualizer.cpp
+  moc_Visualizer.cpp
+  Visualizer.vcxproj -> C:\Users\Yash Doshi\Desktop\Visualizer\x64\Debug\Visualizer.exe
